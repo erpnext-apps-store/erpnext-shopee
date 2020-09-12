@@ -1,1 +1,1 @@
-# erpnext-shopee-vn
+# erpnext-shopee
